@@ -14,7 +14,7 @@ A musician left us a message. What's it mean?
 1. After downloading the given text file I decided to run 'cat' command on the file to see
     the message that was written and I got the following.
 
-![Output](./catmessage.png)
+    ![Output](./catmessage.png)
 
 
 2. Looking at the output of the message I noticed that the message had what looked like coordinates
