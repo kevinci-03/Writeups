@@ -13,6 +13,7 @@ A musician left us a message. What's it mean?
 ## Solution
 1. After downloading the given text file I decided to run 'cat' command on the file to see
     the message that was written and I got the following.
+
 ![Output](./catmessage.png)
 
 
