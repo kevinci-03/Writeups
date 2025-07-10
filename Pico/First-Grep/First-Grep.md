@@ -17,7 +17,8 @@ something tells me there is a better way.
     there was any human readable code and it looked like a bunch of gibberish.
 ![Output](./cat-file.png)
 
-2. I then decided to use the 'grep' command as that was stated in the challenge and maybe
-    I had to use it somnehow but I also realized I can run
+2. Since the challenge mentioned the use of 'grep' command, I figured it might be a good 
+    idea to make use of it somehow. That is when I realized that I could search specifically 
+    for the flag format using the following command, which ended up giving me the flag.
     - 'grep "picoCTF{" file' since this is the format of the flags for picoCTF
 ![Output](./grep.png)
