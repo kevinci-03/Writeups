@@ -23,4 +23,4 @@ Can you find the flag in file without running it?
     but this time pipe it into a grep command that filters by words that contain "picoCTF".
     This then gave me the flag for this level.
 
-![Output](./stringsgrep.png)
+    ![Output](./stringsgrep.png)
