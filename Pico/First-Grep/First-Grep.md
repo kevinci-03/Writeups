@@ -8,6 +8,8 @@ Can you find the flag in file? This would be really tedious to look through manu
 something tells me there is a better way.
 
 ## Tools Used
+- command line
+- 'cat'
 - 'grep'
 
 ## Solution
