@@ -34,6 +34,7 @@ hidden.png:attachments/hidden.png
     
     Using ImageMagick’s `convert`, I inspected pixel values. Many of the pixels that should have been 
     white `(255, 255, 255)` were actually `(255, 255, 254)` — just one value off.
+    
     ![Output](image-2.png)
 
 5. **Counting Off-By-One Pixels**
